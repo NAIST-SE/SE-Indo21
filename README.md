@@ -10,6 +10,8 @@ Build a sentiment story using everyones PR.
 
 ## Collaboration Story 
 
+Negative GROUP
+
 I think that Software Engineering is very good.
 
 It will not help me to conquer the world
