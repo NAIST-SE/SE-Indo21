@@ -10,7 +10,7 @@ Build a sentiment story using everyones PR.
 
 ## Collaboration Story 
 
-I think that Software Engineering is ....
+I think that Software Engineering is very good.
 
 It will help me to ...
 
