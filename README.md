@@ -10,10 +10,10 @@ Build a sentiment story using everyones PR.
 
 ## Collaboration Story 
 
-I think that Software Engineering is ....
+I think that Software Engineering is very good.
 
-It will help me to ...
+It will not help me to conquer the world
 
-However, I am find that ....
+In addition, I find that it is difficult to understand
 
-Finally, I really think that ...
+Finally, I really think that software engineering is bad
