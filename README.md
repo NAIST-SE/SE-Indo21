@@ -12,8 +12,8 @@ Build a sentiment story using everyones PR.
 
 I think that Software Engineering is very good.
 
-It will not help me to conquer the world
+It will help me to conquer the information age.
 
-In addition, I find that it is difficult to understand
+In addition, I find that it is fun to code.
 
-Finally, I really think that software engineering is bad
+Finally, I really think that software engineering is really awesome.
