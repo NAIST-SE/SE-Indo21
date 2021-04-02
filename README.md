@@ -10,7 +10,7 @@ Build a sentiment story using everyones PR.
 
 ## Collaboration Story 
 
-I think that Software Engineering is boring
+I think that Software Engineering is very good.
 
 It will not help me to conquer the world
 
