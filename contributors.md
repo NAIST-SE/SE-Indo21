@@ -1,3 +1,3 @@
 Raula Kula - Professor (ID)
 
-Yusuf Sulistyo Nugroho - Lecturer (ID)
+Yusuf Sulistyo Nugroho - Lecturer (UMS_1197)
